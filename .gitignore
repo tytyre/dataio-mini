@@ -13,3 +13,5 @@ build/
 *.h5
 *.hdf5
 data_out/
+.venv/
+.mamba/
