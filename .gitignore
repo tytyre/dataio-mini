@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+
+# Data artifacts (évite de versionner des gros fichiers)
+*.npz
+*.h5
+*.hdf5
+data_out/
